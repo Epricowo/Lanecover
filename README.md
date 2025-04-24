@@ -9,6 +9,6 @@ currently do not know wether this is "allowed" for VSRG's like "DPJAM" so please
 
 
 # Todo
-- Make the Lanecover have a toggle for draggable / not draggable and have it save in the settings.json<br/>
-- Make the lanecover save the last position the lanecover was when exiting and while booting up (should) use that X and Y<br/>
-- Make the program not ask for administrator (it shouldn't need it in the first place)
+- Make the Lanecover have a toggle for draggable / not draggable and have it save in the settings.json<br/> -- ready for next update
+- Make the lanecover save the last position the lanecover was when exiting and while booting up (should) use that X and Y<br/> -- ready for next update
+- Make the program not ask for administrator (it shouldn't need it in the first place) -- ready for next update
