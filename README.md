@@ -1,3 +1,4 @@
+## NO LONGER BEING UPDATED, I HAVE LOST INTEREST
 # Lanecover
 Lanecover for VSRG games E.g O2jam.</br>
 - To download just download the "Lane_cover.rar" everything should be there.<br/>
